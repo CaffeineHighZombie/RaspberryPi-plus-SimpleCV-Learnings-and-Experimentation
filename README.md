@@ -1,0 +1,1 @@
+# RaspberryPi-plus-SimpleCV-Learnings-and-Experimentation
